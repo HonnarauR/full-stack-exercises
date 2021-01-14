@@ -1,5 +1,7 @@
 # flexbox navbar
 
+A basic navbar made using flexbox and media query concepts. The navbar changes from horizontal alignment to vertical at the breaking point
+
 ![Horizontal Navbar](./navbar-horizontal.jpg)
 ![Vertical Navbar](./navbar-vertical.jpg)
 
