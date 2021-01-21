@@ -1,0 +1,1 @@
+Try to replicate this website - (link)[],  using the bootstrap. If you are not sure of anything, feel free to use developer tools
